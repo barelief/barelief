@@ -1,4 +1,8 @@
-## Hi there 👋
+## My Latest Frontend Projects
+
+- ⚡ **BLON Festival**: [blon.lt](https://blon.lt/) - The official website for BLON Animation and Games Festival, focusing on innovation in games and animation. Built with Astro, Tailwind CSS, and Airtable API.
+- 🪶 **Pasaulis telpa akiratin**: [literaci.lt/pta](https://literaci.lt/pta) - A bilingual poetry website that showcases Polish and Lithuanian poems. It features print-ready PDF generation and an interactive book experience. Built with Astro, React, Tailwind, and nanostores, it also includes Paysera API integration for one-product shopping.
+- 💎 **Crypto Explorer**: [blon.lt/explorer](https://blon.lt/explorer/) - A web app that lets users log in and explore real-time cryptocurrency rates. Developed with React, React Router, and nanostores for state management.
 
 <!--
 **barelief/barelief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
